@@ -3,8 +3,6 @@
 
   <h2>tech stack</h2>
 
-- 추가 예정
-
   <h2>etc</h2>
   <div>
     
